@@ -1,6 +1,20 @@
-To run this:
+ce trebuie instalat:
+pytest
 
-In command prompt:
+cum se ruleaza:
+python ex1.py
 
-pip install pandas
-pip install matlib
+
+ce trebuie instalat:
+pandas
+matplotlib.pyplot
+io
+flask
+
+cum se ruleaza:
+python ex2.py
+python app.py
+
+referinte:
+https://www.w3schools.com/python/matplotlib_plotting.asp
+https://www.w3schools.com/python/pandas/pandas_plotting.asp
